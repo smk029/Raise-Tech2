@@ -1,16 +1,21 @@
 # 第3回課題
 
 ## サンプルアプリケーションの起動
+![image1](images/サンプルアプリケーション.png)
 
 ## 1.APサーバーについて調べる
 - puma version 6.4.2
+![image2](images/puma.png)
 
 - AP サーバーを終了させた場合、引き続きアクセスできません。
+![image3](images/oops.png)
 
 ## 2. DB サーバーについて調べる
 - サンプルアプリケーションで使ったDB サーバー（DB エンジン）の名前と今Cloud9で動作しているバージョンの確認：mySQL version 8.4.0
+![image4](images/mysql.png)
 
 - DB サーバーを終了させた場合、引き続きアクセスできなくなりました。
+![image5](images/db終了.png)
 
 - Railsの構成管理ツールの名前：Bundler
 
