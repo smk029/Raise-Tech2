@@ -11,7 +11,7 @@
 ![image3](images/oops.png)
 
 ## 2. DB サーバーについて調べる
-- サンプルアプリケーションで使ったDB サーバー（DB エンジン）の名前と今Cloud9で動作しているバージョンの確認：mySQL version 8.4.0
+- サンプルアプリケーションで使ったDB サーバー（DB エンジン）の名前と今Cloud9で動作しているバージョンの確認：MySQL version 8.4.0
 ![image4](images/mysql.png)
 
 - DB サーバーを終了させた場合、引き続きアクセスできなくなりました。
