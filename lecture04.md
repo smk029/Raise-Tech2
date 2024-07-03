@@ -8,7 +8,6 @@
 ![image3](images04/EC2_2.png)
 
 ## RDSの構築
-![image4](images04/RDS_1.png)
 ![image5](images04/RDS_4.png)
 ![image6](images04/RDS_3.png)
 
