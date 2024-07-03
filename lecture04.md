@@ -9,7 +9,7 @@
 
 ## RDSの構築
 ![image4](images04/RDS_1.png)
-![image5](images04/RDS_2.png)
+![image5](images04/RDS_4.png)
 ![image6](images04/RDS_3.png)
 
 ## EC2からRDSへ接続
