@@ -19,3 +19,10 @@
 2. EC2からRDSのエンドポイントでRDSに無事接続
 ![image8](images04/RDS接続.png)
 
+## セキュリティグループについて
+
+1. EC2のセキュリティグループ
+![image9](images04/EC2セキュリティグループ.png)
+
+2. RDSのセキュリティグループ
+![image10](images04/RDSセキュリティグループ.png)
