@@ -22,7 +22,7 @@
 ## セキュリティグループについて
 
 1. EC2のセキュリティグループ
-![image9](images04/EC2セキュリティグループ.png)
+![image9](images04/EC2セキュリティグループ.png)
 
 2. RDSのセキュリティグループ
-![image10](images04/RDSセキュリティグループ.png)
+![image10](images04/RDSセキュリティグループ.png)
